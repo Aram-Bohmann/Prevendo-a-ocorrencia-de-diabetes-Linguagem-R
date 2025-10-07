@@ -8,15 +8,18 @@ O repositório possui o respectivo arquivo PDF do relatório para a avaliação 
 **Etapa 1**: Obtenção dos Dados
 
 **Etapa 2**: Preparação dos dados
+
   Foi realizada a devida verificação dos dados, em busca de inconsistências, verificando o tipo dos dados das colunas do dataset, a existência de valores não preenchidos e a proporção dos valores de cada categoria. Posteriormente, tais inconsistências foram corrigidas.
 
 **Etapa 3**: Análise exploratória
+
   Foram elaborados diversos gráficos para a análise exploratória dos dados, como os histogramas a seguir, que mostram as frequências relacionadas ao causador:
 <img width="740" height="326" alt="image" src="https://github.com/user-attachments/assets/6c9f5328-02bd-4504-a34d-3bcc0f99233f" />
 <img width="761" height="327" alt="image" src="https://github.com/user-attachments/assets/b7d24553-5c83-4bd8-ae56-00ba10c5ce75" />
 <img width="771" height="308" alt="image" src="https://github.com/user-attachments/assets/3b57f97d-6330-4775-87e5-2f3691d6ef1d" />
 
 **Etapa 4**: Construção do Modelo
+
   Foi realizada a divisão dos dados em treino e teste — 70% dos dados foram destinados ao treino e 30% ao teste. A imagem abaixo apresenta a distribuição das linhas totais entre os conjuntos de treino e teste:
   
 <img width="202" height="153" alt="image" src="https://github.com/user-attachments/assets/e1936043-8329-4b18-8d54-6ecb81773de6" />
@@ -42,6 +45,7 @@ Na quarta versão, foi aplicado o algoritmo Random Forest, obtendo desempenho en
 **Etapa 5**: Realizando predições
 
 **Etapa 6**: Visualização do Resultado
+
   O arquivo com os resultados está disponível no repositório.
 
 ## 🛠️ Construído com
