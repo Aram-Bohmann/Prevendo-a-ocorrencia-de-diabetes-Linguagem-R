@@ -14,6 +14,7 @@ O repositório possui o respectivo arquivo PDF do relatório para a avaliação 
 **Etapa 3**: Análise exploratória
 
   Foram elaborados diversos gráficos para a análise exploratória dos dados, como os histogramas a seguir, que mostram as frequências relacionadas ao causador:
+  
 <img width="740" height="326" alt="image" src="https://github.com/user-attachments/assets/6c9f5328-02bd-4504-a34d-3bcc0f99233f" />
 <img width="761" height="327" alt="image" src="https://github.com/user-attachments/assets/b7d24553-5c83-4bd8-ae56-00ba10c5ce75" />
 <img width="771" height="308" alt="image" src="https://github.com/user-attachments/assets/3b57f97d-6330-4775-87e5-2f3691d6ef1d" />
