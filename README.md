@@ -403,8 +403,6 @@ resultado.csv <- read.csv('resultado.csv')
 names(resultado.csv) <- c('Indice', 'Valor previsto')
 ```
 
-**📄 Arquivo disponível no repositório:** `resultado.csv`
-
 ---
 
 ## 🛠️ Stack Tecnológica
